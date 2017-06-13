@@ -6,7 +6,7 @@ hystrix:
           thread:
             timeoutInMilliseconds: 60000
 
-who: justdoit
+who: justdoit12
 
 server:
   port: 3319
