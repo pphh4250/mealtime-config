@@ -21,7 +21,7 @@ zuul:
 
     report-service:
         path: /report/**
-        serviceId: feign-report
+        serviceId: reportfeign
 #        stripPrefix: false
 #        sensitiveHeaders:
 server:
