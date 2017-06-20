@@ -9,4 +9,4 @@ hystrix:
 
 
 server:
-  port: 3319
+  port: 3320
