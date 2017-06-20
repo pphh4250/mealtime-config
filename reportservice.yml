@@ -17,7 +17,7 @@ hystrix:
 #    registryFetchIntervalSeconds: 5
 
 server:
-  port: 2232
+  port: 2233
 
 #     jdbc:mysql://drds096843499h63.drds.aliyuncs.com:3306/mealtime?useUnicode=true&amp;characterEncoding=UTF-8&amp;zeroDateTimeBehavior=convertToNull&allowMultiQueries=true
 #     mealtime_ro
