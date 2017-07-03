@@ -1,13 +1,2 @@
-logging:
-  level:
-    org.springframework.security: INFO
+who: hello-mealkey
 
-hystrix:
-  command:
-    default:
-      execution:
-        isolation:
-          thread:
-            timeoutInMilliseconds: 10000
-
-who: justok kjh sdsdfa
