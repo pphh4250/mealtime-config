@@ -7,7 +7,7 @@
             timeoutInMilliseconds: 60000
 
 server:
-  port: 2233
+  port: 2235
   max-http-header-size: 8192
   tomcat.max-threads: 800
 
