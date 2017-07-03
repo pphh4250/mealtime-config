@@ -1,4 +1,4 @@
-hystrix:
+3hystrix:
   command:
     default:
       execution:
@@ -7,7 +7,7 @@ hystrix:
             timeoutInMilliseconds: 60000
 
 server:
-  port: 2232
+  port: 2233
   max-http-header-size: 8192
   tomcat.max-threads: 800
 
