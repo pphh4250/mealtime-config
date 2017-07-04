@@ -1,0 +1,18 @@
+server:
+  port: 3325
+
+ribbon:
+  ReadTimeout:  60000
+  ConnectTimeout: 30000
+
+
+hystrix:
+  metrics:
+    polling-interval-ms: 3000
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 10000
+
